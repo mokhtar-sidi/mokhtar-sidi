@@ -7,7 +7,7 @@ Software engineer and Computer Systems Development student at SupNum in Nouakcho
 
 **Open to internships and software engineering roles.**
 
-[LinkedIn](https://linkedin.com/in/mokhtar-sidi) · [Kaggle](https://kaggle.com/moktarsidi) · [K-M](https://k-m.study) · [Mauri-Dev](https://mauri-dev.online) · [Mauri-Dev on Facebook](https://www.facebook.com/share/19r22TBEVV/)
+[Email](mailto:mokhtar.el.iyil@gmail.com) · [LinkedIn](https://linkedin.com/in/mokhtar-sidi) · [Kaggle](https://kaggle.com/moktarsidi) · [K-M](https://k-m.study) · [Mauri-Dev](https://mauri-dev.online) · [Mauri-Dev on Facebook](https://www.facebook.com/share/19r22TBEVV/)
 
 ## Selected work
 
@@ -31,11 +31,28 @@ Built the GIMTEL integration end to end and connected it to the app, enabling in
 
 `React Native` `NestJS` `TypeScript`
 
-## Skills
+## Languages and frameworks
 
-- **Languages:** TypeScript, JavaScript, Python, SQL
-- **Web and mobile:** React, Next.js, React Native
-- **Backend:** Node.js, NestJS, FastAPI, Prisma
-- **Data:** PostgreSQL, Supabase, MySQL, MongoDB
-- **Machine learning:** PyTorch, Scikit-learn, XGBoost, LightGBM
-- **Tools:** Git, Docker, Cloudflare Workers, k6
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,py" alt="TypeScript, JavaScript, Python" height="48">
+
+**Web and mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs" alt="React, React Native, Next.js" height="48">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,prisma" alt="Node.js, NestJS, FastAPI, Prisma" height="48">
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,mysql,mongodb" alt="PostgreSQL, Supabase, Firebase, MySQL, MongoDB" height="48">
+
+**Machine learning**
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="PyTorch, Scikit-learn" height="48">
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,git" alt="Docker, Cloudflare, Git" height="48">
