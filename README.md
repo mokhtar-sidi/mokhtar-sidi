@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/metro-dark.svg">
-  <img src="assets/metro-light.svg" alt="A metro map with lines for School ERP, K-M and Elebne Business, where each station is a milestone and all lines meet at the next stop: your team." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/blueprint-dark.svg">
+  <img src="assets/blueprint-light.svg" alt="El Mokhtar Sidi, software engineer, drawn as an engineering blueprint. Status: open to work." width="100%">
 </picture>
 
 Software engineer and Computer Systems Development student at SupNum in Nouakchott, Mauritania. I build and run production software used by real people, and I am a co-founder of [Mauri-Dev](https://mauri-dev.online).
