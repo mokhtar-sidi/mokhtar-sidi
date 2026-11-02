@@ -1,9 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/train-dark.svg">
-  <img src="assets/train-light.svg" alt="A long train with one wagon for each week of my commits to School ERP, K-M and Elebne Business, loaded with stacked blocks." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/metro-dark.svg">
+  <img src="assets/metro-light.svg" alt="A metro map with lines for School ERP, K-M and Elebne Business, where each station is a milestone and all lines meet at the next stop: your team." width="100%">
 </picture>
-
-Mauritania's iron ore train is one of the longest in the world. Mine carries my work: one wagon for each week and one block for up to 10 commits, 1,030 commits since July 2026.
 
 Software engineer and Computer Systems Development student at SupNum in Nouakchott, Mauritania. I build and run production software used by real people, and I am a co-founder of [Mauri-Dev](https://mauri-dev.online).
 
