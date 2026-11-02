@@ -1,9 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dunes-dark.svg">
-  <img src="assets/dunes-light.svg" alt="Sand dunes drawn from my daily commits to School ERP, K-M and Elebne Business, with one grain of sand for each commit." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/train-dark.svg">
+  <img src="assets/train-light.svg" alt="A long train with one wagon for each week of my commits to School ERP, K-M and Elebne Business, loaded with stacked blocks." width="100%">
 </picture>
 
-Each dune is a project, shaped by how much I committed each day. Every grain of sand is one commit: 1,030 since July 2026, almost all in private repositories.
+Mauritania's iron ore train is one of the longest in the world. Mine carries my work: one wagon for each week and one block for up to 10 commits, 1,030 commits since July 2026.
 
 Software engineer and Computer Systems Development student at SupNum in Nouakchott, Mauritania. I build and run production software used by real people, and I am a co-founder of [Mauri-Dev](https://mauri-dev.online).
 
