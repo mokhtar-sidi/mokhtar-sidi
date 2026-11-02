@@ -1,4 +1,9 @@
-# El Mokhtar Sidi
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dunes-dark.svg">
+  <img src="assets/dunes-light.svg" alt="Sand dunes drawn from my daily commits to School ERP, K-M and Elebne Business, with one grain of sand for each commit." width="100%">
+</picture>
+
+Each dune is a project, shaped by how much I committed each day. Every grain of sand is one commit: 1,030 since July 2026, almost all in private repositories.
 
 Software engineer and Computer Systems Development student at SupNum in Nouakchott, Mauritania. I build and run production software used by real people, and I am a co-founder of [Mauri-Dev](https://mauri-dev.online).
 
